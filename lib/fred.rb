@@ -9,7 +9,7 @@ module Fred
 		if secondary.nil?
 			response = HTTParty.get("http://api.stlouisfed.org/fred/#{parent}?#{hash_to_query(options)}&api_key=#{FRED_API_KEY}")
 		else
-			response = HTTParty.get("http://api.stlouisfed.org/fred/#{parent}/#{child}?#{hash_to_query(options)}&api_key=#{FRED_API_KEY}")      
+			response = HTTParty.get("http://api.stlouisfed.org/fred/#{parent}/#{child}?#{hash_to_query(options)}&api_key=#{FRED_API_KEY}")			
 		end
 	end
 
