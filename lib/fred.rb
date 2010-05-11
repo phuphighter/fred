@@ -14,7 +14,7 @@ module Fred
 	end
 
 	private
-	
+
 	def hash_to_query(hash)
 		hash.keys.inject('') do |query_string, key|
 		  query_string << '&' unless key == hash.keys.first
