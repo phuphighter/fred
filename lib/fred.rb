@@ -2,11 +2,8 @@
 require 'rubygems'
 gem 'httparty'
 require 'httparty'
-require 'uri'
 
 directory = File.expand_path(File.dirname(__FILE__))
-
-# Hash.send :include, Hashie::HashExtensions
 
 module Fred
   
@@ -16,6 +13,14 @@ module Fred
   #   config.api_key = 'api_key'
   # end
   # client = Fred::Client.new
+  #
+  # or
+  #
+  # Fred.api_key = 'api_key'
+  #
+  # or
+  #
+  # Fred::Client.new(:api_key => 'api_key')
   
   def self.configure
     yield self
