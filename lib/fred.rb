@@ -4,21 +4,28 @@ gem 'httparty'
 require 'httparty'
 require 'uri'
 
+directory = File.expand_path(File.dirname(__FILE__))
+
+# Hash.send :include, Hashie::HashExtensions
+
 module Fred
-  def self.fred(parent, child, options={})
-    if secondary.nil?
-      response = HTTParty.get("http://api.stlouisfed.org/fred/#{parent}?#{hash_to_query(options)}&api_key=#{FRED_API_KEY}")
-    else
-      response = HTTParty.get("http://api.stlouisfed.org/fred/#{parent}/#{child}?#{hash_to_query(options)}&api_key=#{FRED_API_KEY}")			
-    end
+  
+  # create config/initializers/fred.rb
+  # 
+  # Fred.configure do |config|
+  #   config.api_key = 'api_key'
+  # end
+  # client = Fred::Client.new
+  
+  def self.configure
+    yield self
+    true
   end
 
-  private
-
-  def hash_to_query(hash)
-    hash.keys.inject('') do |query_string, key|
-      query_string << '&' unless key == hash.keys.first
-      query_string << "#{URI.encode(key.to_s)}=#{URI.encode(hash[key])}"
-    end
+  class << self
+    attr_accessor :api_key
   end
+  
 end
+
+require File.join(directory, 'fred', 'client')
