@@ -32,10 +32,10 @@ Sign up for a Fred API key: [http://api.stlouisfed.org/api_key.html](http://api.
 #### Examples
 
     >> fred.category(nil, :category_id => '125')
-    => {"categories"=>{"category"=>{"name"=>"Trade Balance", "id"=>"125", "parent_id"=>"13"}}}
+    => <#Hashie::Mash categories=<#Hashie::Mash category=<#Hashie::Mash id="125" name="Trade Balance" parent_id="13">>>
     
-    >> fred.series("categories", :series_id => 'EXJPUS')
-    => {"categories"=>{"category"=>[{"name"=>"Monthly Rates", "id"=>"95", "parent_id"=>"15"}, {"name"=>"Japan", "id"=>"275", "parent_id"=>"158"}]}}
+    >> fred.series(nil, :series_id => 'GNPC')
+    => <#Hashie::Mash seriess=<#Hashie::Mash realtime_end="2008-07-29" realtime_start="2008-07-29" series=<#Hashie::Mash frequency="Annual" frequency_short="A" id="GNPCA" last_updated="2008-03-27 11:16:06-05" observation_end="2007-01-01" observation_start="1929-01-01" realtime_end="2008-07-29" realtime_start="2008-07-29" seasonal_adjustment="Not Applicable" seasonal_adjustment_short="NA" title="Real Gross National Product" units="Billions of Chained 2000 Dollars" units_short="Bil. of Chained 2000 $">>>
 
 ## Copyright
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sources realtime_start="2008-07-21" realtime_end="2008-07-21" order_by="source_id" sort_order="asc" count="21" offset="0" limit="1000">
+  <source id="1" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Board of Governors of the Federal Reserve System" link="http://www.federalreserve.gov/"/>
+  <source id="3" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Federal Reserve Bank of Philadelphia" link="http://www.philadelphiafed.org/"/>
+  <source id="4" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Federal Reserve Bank of St. Louis" link="http://www.stlouisfed.org/"/>
+  <source id="6" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Federal Financial Institutions Examination Council" link="http://www.ffiec.gov/"/>
+  <source id="11" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Dow Jones &amp; Company" link="http://www.dowjones.com"/>
+  <source id="13" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Institute for Supply Management" link="http://www.ism.ws/"/>
+  <source id="14" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Survey Research Center: University of Michigan" link="http://www.isr.umich.edu/src/"/>
+  <source id="15" realtime_start="2008-07-21" realtime_end="2008-07-21" name="The White House: Council of Economic Advisors" link="http://www.whitehouse.gov/cea/"/>
+  <source id="16" realtime_start="2008-07-21" realtime_end="2008-07-21" name="The White House: Office of Management and Budget" link="http://www.whitehouse.gov/omb/"/>
+  <source id="17" realtime_start="2008-07-21" realtime_end="2008-07-21" name="U.S. Congress: Congressional Budget Office" link="http://www.cbo.gov/"/>
+  <source id="18" realtime_start="2008-07-21" realtime_end="2008-07-21" name="U.S. Department of Commerce: Bureau of Economic Analysis" link="http://www.bea.gov/"/>
+  <source id="19" realtime_start="2008-07-21" realtime_end="2008-07-21" name="U.S. Department of Commerce: Census Bureau" link="http://www.census.gov/"/>
+  <source id="21" realtime_start="2008-07-21" realtime_end="2008-07-21" name="U.S. Department of Housing and Urban Development" link="http://www.hud.gov/"/>
+  <source id="22" realtime_start="2008-07-21" realtime_end="2008-07-21" name="U.S. Department of Labor: Bureau of Labor Statistics" link="http://www.bls.gov/"/>
+  <source id="23" realtime_start="2008-07-21" realtime_end="2008-07-21" name="U.S. Department of the Treasury, Financial Management Service" link="http://www.fms.treas.gov/"/>
+  <source id="26" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Haver Analytics" link="http://www.haver.com/"/>
+  <source id="31" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Reserve Bank of Australia" link="http://www.rba.gov.au/"/>
+  <source id="32" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Deutsche Bundesbank" link="http://www.bundesbank.de/index.en.php"/>
+  <source id="33" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Banca d&apos;Italia" link="http://www.bancaditalia.it/;internal&action=_setlanguage.action?LANGUAGE=en"/>
+  <source id="34" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Swiss National Bank" link="http://www.snb.ch/"/>
+  <source id="35" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Central Bank of the Republic of Turkey" link="http://www.tcmb.gov.tr/yeni/eng/"/>
+</sources>

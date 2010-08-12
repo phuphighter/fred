@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<releases realtime_start="2008-07-21" realtime_end="2008-07-21" order_by="release_id" sort_order="asc" count="82" offset="0" limit="1000">
+  <release id="9" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Advance Monthly Sales for Retail and Food Services" press_release="true" link="http://www.census.gov/svsd/www/advtable.html"/>
+  <release id="10" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Consumer Price Index" press_release="true" link="http://www.bls.gov/cpi/"/>
+  <release id="11" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Employment Cost Index" press_release="true" link="http://www.bls.gov/ncs/ect/"/>
+  <release id="13" realtime_start="2008-07-21" realtime_end="2008-07-21" name="G.17 Industrial Production and Capacity Utilization" press_release="true" link="http://www.federalreserve.gov/releases/g17/"/>
+  <release id="14" realtime_start="2008-07-21" realtime_end="2008-07-21" name="G.19 Consumer Credit" press_release="true" link="http://www.federalreserve.gov/releases/g19/"/>
+  <release id="15" realtime_start="2008-07-21" realtime_end="2008-07-21" name="G.5 Foreign Exchange Rates" press_release="true" link="http://www.federalreserve.gov/releases/g5/"/>
+  <release id="17" realtime_start="2008-07-21" realtime_end="2008-07-21" name="H.10 Foreign Exchange Rates" press_release="true" link="http://www.federalreserve.gov/releases/h10/"/>
+  <release id="18" realtime_start="2008-07-21" realtime_end="2008-07-21" name="H.15 Selected Interest Rates" press_release="true" link="http://www.federalreserve.gov/releases/h15/"/>
+  <release id="19" realtime_start="2008-07-21" realtime_end="2008-07-21" name="H.3 Aggregate Reserves of Depository Institutions and the Monetary Base" press_release="true" link="http://www.federalreserve.gov/releases/h3/"/>
+  <release id="20" realtime_start="2008-07-21" realtime_end="2008-07-21" name="H.4.1 Factors Affecting Reserve Balances" press_release="true" link="http://www.federalreserve.gov/releases/h41/"/>
+  <release id="21" realtime_start="2008-07-21" realtime_end="2008-07-21" name="H.6 Money Stock Measures" press_release="true" link="http://www.federalreserve.gov/releases/h6/"/>
+  <release id="22" realtime_start="2008-07-21" realtime_end="2008-07-21" name="H.8 Assets and Liabilities of Commercial Banks in the United States" press_release="true" link="http://www.federalreserve.gov/releases/h8/"/>
+  <release id="25" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Manufacturing and Trade Inventories and Sales" press_release="true" link="http://www.census.gov/mtis/www/mtis.html"/>
+  <release id="26" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Manufacturing ISM Report on Business" press_release="true" link="http://www.ism.ws/ISMReport/"/>
+  <release id="27" realtime_start="2008-07-21" realtime_end="2008-07-21" name="New Residential Construction" press_release="true" link="http://www.census.gov/const/www/newresconstindex.html"/>
+  <release id="46" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Producer Price Index" press_release="true" link="http://www.bls.gov/ppi/"/>
+  <release id="47" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Productivity and Costs" press_release="true" link="http://www.bls.gov/lpc/"/>
+  <release id="49" realtime_start="2008-07-21" realtime_end="2008-07-21" name="U.S. International Transactions" press_release="true" link="http://www.bea.gov/newsreleases/international/transactions/transnewsrelease.htm"/>
+  <release id="50" realtime_start="2008-07-21" realtime_end="2008-07-21" name="The Employment Situation" press_release="true" link="http://www.bls.gov/ces/"/>
+  <release id="51" realtime_start="2008-07-21" realtime_end="2008-07-21" name="U.S. International Trade in Goods and Services" press_release="true" link="http://www.bea.gov/newsreleases/international/trade/tradnewsrelease.htm"/>
+  <release id="52" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Z.1 Flow of Funds Accounts of the United States" press_release="true" link="http://www.federalreserve.gov/releases/z1/"/>
+  <release id="53" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Gross Domestic Product" press_release="true" link="http://www.bea.gov/national/index.htm"/>
+  <release id="54" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Personal Income and Outlays" press_release="true" link="http://www.bea.gov/national/index.htm#personal"/>
+  <release id="55" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Reports of Condition and Income for All Insured U.S. Commercial Banks" press_release="true"/>
+  <release id="59" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Monthly National Population Estimates" press_release="false" link="http://www.census.gov/popest/national/"/>
+  <release id="61" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Money Zero Maturity (MZM)" press_release="false" link="http://research.stlouisfed.org/publications/mt/"/>
+  <release id="62" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Monetary Services Index (MSI)" press_release="false" link="http://research.stlouisfed.org/msi/"/>
+  <release id="63" realtime_start="2008-07-21" realtime_end="2008-07-21" name="M2 Related Series" press_release="false" link="http://research.stlouisfed.org/publications/mt/"/>
+  <release id="64" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Long-Term U.S. Treasury Securities - Market Yield" press_release="false"/>
+  <release id="70" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Monthly Treasury Inflation-Indexed Securities" press_release="false"/>
+  <release id="71" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Weekly Treasury Inflation-Indexed Securities" press_release="false"/>
+  <release id="72" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Daily Treasury Inflation-Indexed Securities" press_release="false"/>
+  <release id="78" realtime_start="2008-07-21" realtime_end="2008-07-21" name="St. Louis Monthly Reserves and Monetary Base" press_release="false" link="http://research.stlouisfed.org/publications/mt/"/>
+  <release id="79" realtime_start="2008-07-21" realtime_end="2008-07-21" name="St. Louis Bi-Weekly Reserves and Monetary Base" press_release="false" link="http://research.stlouisfed.org/publications/usfd/"/>
+  <release id="80" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Treasury Bulletin" press_release="true" link="http://www.fms.treas.gov/bulletin/"/>
+  <release id="81" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Fiscal Year Budget Data" press_release="false" link="http://www.gpoaccess.gov/usbudget/"/>
+  <release id="82" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Economic Report of the President" press_release="true" link="http://www.gpoaccess.gov/eop/"/>
+  <release id="86" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Commercial Paper Outstanding" press_release="true" link="http://www.federalreserve.gov/releases/cp/"/>
+  <release id="87" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Transitional Euro Country Exchange Rates" press_release="false"/>
+  <release id="89" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Household Debt Service and Financial Obligations Ratios" press_release="true" link="http://federalreserve.gov/releases/housedebt/"/>
+  <release id="91" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Surveys of Consumers" press_release="true" link="http://www.sca.isr.umich.edu/"/>
+  <release id="92" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Selected Real Retail Sales Series" press_release="false"/>
+  <release id="93" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Supplemental Estimates, Motor Vehicles" press_release="true" link="http://www.bea.gov/bea/dn/home/suppestimates.htm"/>
+  <release id="94" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Survey of Secondary Market Prices and Yields, and Interest Rates for Home Loans" press_release="true"/>
+  <release id="95" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Manufacturer's Shipments, Inventories, and Orders (M3) Survey" press_release="true" link="http://www.census.gov/indicator/www/m3/"/>
+  <release id="97" realtime_start="2008-07-21" realtime_end="2008-07-21" name="New Residential Sales" press_release="true" link="http://www.census.gov/const/www/newressalesindex.html"/>
+  <release id="99" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Budget and Economic Outlook" press_release="true" link="http://www.cbo.gov/publications/bysubject.cfm?cat=0"/>
+  <release id="100" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Seasonal Credit Rate" press_release="false" link="http://www.frbdiscountwindow.org/historicalrates.cfm?hdrID=20&dtlID=52"/>
+  <release id="101" realtime_start="2008-07-21" realtime_end="2008-07-21" name="FOMC Press Release" press_release="true" link="http://www.federalreserve.gov/fomc/"/>
+  <release id="102" realtime_start="2008-07-21" realtime_end="2008-07-21" name="Wall Street Journal" press_release="true" link="http://online.wsj.com/public/us"/>

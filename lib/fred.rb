@@ -2,8 +2,11 @@
 require 'rubygems'
 gem 'httparty'
 require 'httparty'
+require 'hashie'
 
 directory = File.expand_path(File.dirname(__FILE__))
+
+Hash.send :include, Hashie::HashExtensions
 
 module Fred
   

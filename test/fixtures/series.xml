@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<seriess realtime_start="2008-07-29" realtime_end="2008-07-29">
+  <series id="GNPCA" realtime_start="2008-07-29" realtime_end="2008-07-29" title="Real Gross National Product" observation_start="1929-01-01" observation_end="2007-01-01" frequency="Annual" frequency_short="A" units="Billions of Chained 2000 Dollars" units_short="Bil. of Chained 2000 $" seasonal_adjustment="Not Applicable" seasonal_adjustment_short="NA" last_updated="2008-03-27 11:16:06-05"/>
+</seriess>
