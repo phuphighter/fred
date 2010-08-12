@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{fred}
-  s.version = "0.1.0"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Johnny Khai Nguyen"]
-  s.date = %q{2010-05-16}
+  s.date = %q{2010-08-12}
   s.description = %q{Ruby wrapper for the St. Louis Federal Reserve FRED API}
   s.email = %q{johnnyn@gmail.com}
   s.extra_rdoc_files = [
@@ -20,13 +20,21 @@ Gem::Specification.new do |s|
      "README.md",
      "Rakefile",
      "VERSION",
+     "fred.gemspec",
      "generators/fred/USAGE",
      "generators/fred/fred_generator.rb",
      "init.rb",
      "install.rb",
      "lib/fred.rb",
      "lib/fred/client.rb",
+     "pkg/fred-0.1.0.gem",
      "tasks/fred_tasks.rake",
+     "test/fixtures/category.xml",
+     "test/fixtures/release.xml",
+     "test/fixtures/releases.xml",
+     "test/fixtures/series.xml",
+     "test/fixtures/source.xml",
+     "test/fixtures/sources.xml",
      "test/fred_test.rb",
      "test/test_helper.rb",
      "uninstall.rb"
