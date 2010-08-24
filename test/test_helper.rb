@@ -27,7 +27,7 @@ def fixture_file(filename)
 end
 
 def fred_url(url, options={})
-  url =~ /^http/ ? url : "http://api2.citysearch.com#{url}"
+  url =~ /^http/ ? url : "http://api.stlouisfed.org/fred#{url}"
 end
 
 def stub_get(url, filename, options={})
