@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rake'
 require 'rake/testtask'
-require 'rake/rdoctask'
+require 'rdoc/task'
 
 begin
   require 'jeweler'
@@ -14,6 +14,7 @@ begin
     gem.authors = ["Johnny Khai Nguyen"]
     
     gem.add_dependency('httparty', '>= 0.5.0')
+    gem.add_dependency('hashie', '>= 2.0.5')
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
