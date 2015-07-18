@@ -2,7 +2,7 @@ module Fred
   
   class Client
     include HTTParty
-    base_uri "http://api.stlouisfed.org/fred"
+    base_uri "https://api.stlouisfed.org/fred"
     format :xml
         
     attr_reader :api_key
