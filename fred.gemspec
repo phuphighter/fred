@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "fred-0.3.1.gem",
     "fred.gemspec",
     "generators/fred/USAGE",
     "generators/fred/fred_generator.rb",
