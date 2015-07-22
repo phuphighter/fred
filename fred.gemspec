@@ -41,7 +41,7 @@ Gem::Specification.new do |s|
     "uninstall.rb"
   ]
   s.homepage = "http://github.com/phuphighter/fred"
-  s.rubygems_version = "2.4.6"
+  s.rubygems_version = "2.2.1"
   s.summary = "Ruby wrapper for the St. Louis Federal Reserve FRED API"
 
   if s.respond_to? :specification_version then

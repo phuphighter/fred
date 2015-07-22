@@ -15,6 +15,7 @@ begin
     
     gem.add_runtime_dependency('httparty', '~> 0.5', '>= 0.5.0')
     gem.add_runtime_dependency('hashie', '~> 2.0', '>= 2.0.5')
+    gem.version = File.read('VERSION').chomp
   end
   Jeweler::GemcutterTasks.new
 rescue LoadError
