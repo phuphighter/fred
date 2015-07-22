@@ -13,7 +13,7 @@ begin
     gem.homepage = "http://github.com/phuphighter/fred"
     gem.authors = ["Johnny Khai Nguyen"]
     
-    gem.add_dependency('httparty', '>= 0.5.0')
+    gem.add_runtime_dependency('httparty', '~> 0.5', '>= 0.5.0')
     gem.add_runtime_dependency('hashie', '~> 2.0', '>= 2.0.5')
   end
   Jeweler::GemcutterTasks.new

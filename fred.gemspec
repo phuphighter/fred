@@ -41,21 +41,21 @@ Gem::Specification.new do |s|
     "uninstall.rb"
   ]
   s.homepage = "http://github.com/phuphighter/fred"
-  s.rubygems_version = "2.2.1"
+  s.rubygems_version = "2.4.6"
   s.summary = "Ruby wrapper for the St. Louis Federal Reserve FRED API"
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
-      s.add_runtime_dependency(%q<httparty>, [">= 0.5.0"])
+      s.add_runtime_dependency(%q<httparty>, [">= 0.5.0", "~> 0.5"])
       s.add_runtime_dependency(%q<hashie>, [">= 2.0.5", "~> 2.0"])
     else
-      s.add_dependency(%q<httparty>, [">= 0.5.0"])
+      s.add_dependency(%q<httparty>, [">= 0.5.0", "~> 0.5"])
       s.add_dependency(%q<hashie>, [">= 2.0.5", "~> 2.0"])
     end
   else
-    s.add_dependency(%q<httparty>, [">= 0.5.0"])
+    s.add_dependency(%q<httparty>, [">= 0.5.0", "~> 0.5"])
     s.add_dependency(%q<hashie>, [">= 2.0.5", "~> 2.0"])
   end
 end
