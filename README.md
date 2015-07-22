@@ -6,11 +6,7 @@ This is a Ruby wrapper for the St. Louis Federal Reserve Economic Data [Fred API
 
 As a gem:
 
-    sudo gem install fred
-
-As a plugin (in your Rails directory):
-
-    script/plugin install git://github.com/phuphighter/fred.git
+    gem install fred -v 0.3.0    
     
 ## Get a FRED API key
 
